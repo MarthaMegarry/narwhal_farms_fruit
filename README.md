@@ -3,7 +3,7 @@ jQuery is great! It allows us to do so many things! You and your group will need
 Javascript and jQuery to tackle this challenge. 
 
 ## The Fruit Market
-For this challenge, you will be working with 4 commodotiesFor this challenge, you will be working with 4 commodities; 
+For this challenge, you will be working with 4 commodities; 
 Apples, Oranges, Bananas, and Grapes. Delicious, right?
 
 When the application loads, you will need to have information for each of the commodities, specifically the name 
