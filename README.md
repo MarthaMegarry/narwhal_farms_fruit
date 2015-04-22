@@ -23,6 +23,7 @@ much money they have spent on a given fruit in their inventory.
 Meaning that by clicking on the display for each of the fruits, allows the user to ‘buy’ one of the fruits, at 
 market price, which will be deducted from the total cash. The user is not allowed to spend more than they have.
 
+The user will start with $100.
 
 ##Hard Mode
 Create a button below each of the Fruit buttons that allows the User to ‘sell’ one of their fruits of the same 
