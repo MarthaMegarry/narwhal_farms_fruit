@@ -4,7 +4,7 @@ Javascript and jQuery to tackle this challenge.
 
 ## The Fruit Market
 For this challenge, you will be working with 4 commodities; 
-Apples, Oranges, Bananas, and Grapes. Delicious, right?
+Apples, Oranges, Bananas, Grapes, and Pears. Delicious, right?
 
 When the application loads, you will need to have information for each of the commodities, specifically the name 
 and the ‘market price’ of each. This information will need to be displayed in a meaningful way on the DOM.
